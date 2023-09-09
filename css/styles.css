@@ -28,6 +28,11 @@ hr {
     width: 10%;
 }
 
+.top-bar-items {
+    margin: 0 auto;
+    width: 50%;
+}
+
 .top-labels {
     margin-top: 3%;
 }
