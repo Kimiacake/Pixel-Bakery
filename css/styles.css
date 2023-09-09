@@ -32,11 +32,16 @@ hr {
     margin-top: 3%;
 }
 
+.introduction {
+    margin: 0 auto;
+    width: 50%;
+}
+
 .avatar {
     height: 90px;
     float: left;
     margin-right: 22%;
-    margin-left: 15%;
+    margin-left: 10%;
 }
 
 .top-bar {
@@ -48,14 +53,13 @@ hr {
 
 .description {
     position: relative;
-    bottom: 50px;
+    bottom: 30px;
 }
 
 .bakery {
-    width: 25%;
-    margin: auto;
+    margin: 0 auto;
     position: relative;
-    bottom: 50px;
+    bottom: 30px;
 }
 
 .skill-row {
